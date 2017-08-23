@@ -1,0 +1,29 @@
+* { margin: 0; padding: 0; }
+body {  font-family: 'Roboto', sans-serif;}
+
+.container {
+    background-color: #ffffff;
+    padding-left: 0!important;
+    padding-right: 0!important;}
+
+#movies, #series {
+    background-color: #f1f1f1;
+    padding-top: 50px;
+    padding-bottom: 50px; }
+
+#cover, #footer, #search {
+    margin-right: 0;
+    margin-left: 0;}
+
+#search {
+    background-color: #2A292E;}
+
+#footer {
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);}
+
+@media screen and (max-width: 768px) {
+    .row {
+        margin-right: 0!important;
+        margin-left: 0!important;
+    }
+}
