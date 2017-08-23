@@ -1,6 +1,6 @@
 {
   "name": "movies",
-  "homepage": "https://amaralflavio.github.io/cmovies/",
+  "homepage": "https://amaralflavio.github.io/cmovies",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
