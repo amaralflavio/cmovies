@@ -2,7 +2,7 @@
   "name": "movies",
   "homepage": "https://amaralflavio.github.io/cmovies",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "react-scripts": "1.0.10"
   },
